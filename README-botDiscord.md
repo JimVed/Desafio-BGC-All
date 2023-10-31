@@ -15,16 +15,20 @@ O bot é capaz de entrar em um canal do Discord e, com os comandos corretos, for
 
 1. Certifique-se de ter o Visual Studio Code (VSCode), Node e npm configurados.
 2. Baixe os arquivos do bot.
-3. Instale a biblioteca Discord.js com o comando `npm install discord.js`.
-4. Instale o Axios com o comando `npm install axios`.
+3. Instale as dependências com ``npm install``.
 
 ## Como Criar o Bot
 
 5. Acesse o [Discord Developer Portal](https://discord.com/developers/applications).
+
    5.1. Vá até a aba "Aplicações".
+
    5.2. Faça login em uma conta.
+
    5.4. Clique em "Nova Aplicação".
+
    5.5. Na barra lateral, selecione "bot".
+
 6. Configure o bot e conceda as autorizações necessárias.
 
 ## Adicionando o Bot ao Servidor
