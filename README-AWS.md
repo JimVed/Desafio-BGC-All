@@ -77,8 +77,10 @@ Tarountula (Japonês: タマンチュラ Tamantula) é um Pokémon do tipo Inset
   
 
 6.2 Para buscar um Pokémon diferente, você deve ir na aba de testes e escrever no seguinte formato:  
- {“url”:” https://pokemon.fandom.com/pt-br/wiki/NomeDoPokémonDesejado” 
-} 
+
+``{   
+   “url”:” https://pokemon.fandom.com/pt-br/wiki/NomeDoPokémonDesejado” 
+}``
 
   
 
