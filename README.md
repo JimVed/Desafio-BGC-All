@@ -19,7 +19,7 @@ O Scraper Puppeteer é um bot que consegue acessar as páginas da PokéPédia e 
 
   
 
-O Scraper AWS segue a mesma linha do projeto anterior, mas retorna menos informações devido a tempo de execução e possíveis custos e t. Este bot coleta informações sobre Pokémon, incluindo nome, tipo e geração. Para entender como configurar e usar o Scraper AWS, consulte o README dedicado a ele. 
+O Scraper AWS segue a mesma linha do projeto anterior, mas retorna menos informações devido a tempo de execução e possíveis custos. Este bot coleta informações sobre Pokémon, incluindo nome, tipo e geração. Para entender como configurar e usar o Scraper AWS, consulte o README dedicado a ele. 
 
   
 
